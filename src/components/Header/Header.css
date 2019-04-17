@@ -1,0 +1,12 @@
+.header-container{
+    width: 100%;
+    min-height: 400px;
+    padding: 200px 200px 100px 200px;
+    text-align: center;
+    background-image: url("/assets/images/skyline2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1, p{
+    color: white;
+}
